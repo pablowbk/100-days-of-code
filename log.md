@@ -16,3 +16,12 @@
 **Thoughts:** I really needed to go over these concepts. It was awesome being able to crack the Counting Cards excercise.
 
 **Link to work:** [Basic JavaScript: Counting Cards] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)
+
+
+### Day 3: November 6, 2018
+
+**Today's Progress**: Continued with FCC's JavaScript Basics module (3).
+
+**Thoughts:** Stuck. Cannot solve the Record Collection challenge. 
+
+**Link to work:** [Basic JavaScript: Record Collection] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
