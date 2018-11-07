@@ -25,3 +25,12 @@
 **Thoughts:** Stuck. Cannot solve the Record Collection challenge. 
 
 **Link to work:** [Basic JavaScript: Record Collection] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+
+
+### Day 4: November 7, 2018
+
+**Today's Progress**: Continued with FCC's JavaScript Basics module (4).
+
+**Thoughts:** Record Collection challenge is killing me... Just one test from completing it. but cant figure it out.
+
+**Link to work:** [Basic JavaScript: Record Collection] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
