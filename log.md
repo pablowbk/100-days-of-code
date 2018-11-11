@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 
 
 ### Day 8: November 11, 2018
 
