@@ -1,11 +1,19 @@
 # 100 Days Of Code - Log
 
-
-### Day 6: November 9, 2018
+### Day 7: November 10, 2018
 
 **Today's Progress:** Continued with FCC's JavaScript Basics module (6) -  Loops
 
-**Thoughts:** Even after checking videous out, solution from other people, things did not make sense. Deleted the whole thing and started again from scratch. One statement at a time, in the order proposed in the Challenge description. Success!!
+**Thoughts:** Almost missed the streak. Luckilly found a few mins after the kids went to bed. Not much energy left though. Will try to finish the Profile Lookup challenge.
+
+**Link to work:** [Basic JavaScript: Profile Lookup] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+
+
+### Day 6: November 9, 2018
+
+**Today's Progress:** Continued with FCC's JavaScript Basics module (6) -  Profile Lookup
+
+**Thoughts:** Managed to get individual statements to work, but they fail when put together. Have to work out how to combine loops and nest if statements.
 
 **Link to work:** [Basic JavaScript: Profile Lookup] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
 
