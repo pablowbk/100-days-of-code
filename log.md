@@ -1,8 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 8: November 11, 2018
+
+**Today's Progress:** Continued with FCC's JavaScript Basics module (8) -  Profile Lookup
+
+**Thoughts:** Completed Profile lookup excercise. Had to read through the FCC forum to understand that one of the conditions had to run outside the for loop to get things to work as expected.
+
+**Link to work:** [Basic JavaScript: Profile Lookup] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+
+
 ### Day 7: November 10, 2018
 
-**Today's Progress:** Continued with FCC's JavaScript Basics module (6) -  Loops
+**Today's Progress:** Continued with FCC's JavaScript Basics module (7) -  Profile Lookup
 
 **Thoughts:** Almost missed the streak. Luckilly found a few mins after the kids went to bed. Not much energy left though. Will try to finish the Profile Lookup challenge.
 
