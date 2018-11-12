@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 9: November 12, 2018
+
+**Today's Progress:** Played CSS Dinner - CSS Selectors
+
+**Thoughts:** Not feeling well, only managed to play css selectors game. Liked :empty the most.
+
+**Link to work:** [CSS Dinner] (https://flukeout.github.io/)
+
+
 ### Day 8: November 11, 2018
 
 **Today's Progress:** Continued with FCC's JavaScript Basics module (8) -  Profile Lookup
