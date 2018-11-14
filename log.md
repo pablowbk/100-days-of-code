@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 11: November 12, 2018
+
+**Today's Progress:** Finishing touched to Product page FCC - Listened to Resilient Web Design
+
+**Thoughts:** Amazed at :target pseudo-selector, mimicking an onClick event, almost.
+
+**Link to work:** [Resilient Web Design] (https://resilientwebdesign.com/) / [FCC Product Landing Page] (https://codepen.io/pablowbk/full/RBqbNm/)
+
+
 ### Day 10: November 12, 2018
 
 **Today's Progress:** Played CSS Dinner - CSS Selectors
