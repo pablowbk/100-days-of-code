@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 10: November 12, 2018
+
+**Today's Progress:** Played CSS Dinner - CSS Selectors
+
+**Thoughts:** Not feeling well, only managed to play css selectors game. Liked [attribute*=value]
+
+**Link to work:** [CSS Dinner] (https://flukeout.github.io/)
+
 
 ### Day 9: November 12, 2018
 
