@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log 
 
 
-### Day 11: November 12, 2018
+### Day 12: November 15, 2018
+
+**Today's Progress:** Got the html done for Tech Doc page at FCC - Tried to understand closures. failed.
+
+**Thoughts:** Like being on a streak...
+
+**Link to work:** [FCC: Technical Documentation Page] (https://codepen.io/pablowbk/pen/pQPLyy)
+
+
+### Day 11: November 14, 2018
 
 **Today's Progress:** Finishing touched to Product page FCC - Listened to Resilient Web Design
 
@@ -10,7 +19,7 @@
 **Link to work:** [Resilient Web Design] (https://resilientwebdesign.com/) / [FCC Product Landing Page] (https://codepen.io/pablowbk/full/RBqbNm/)
 
 
-### Day 10: November 12, 2018
+### Day 10: November 13, 2018
 
 **Today's Progress:** Played CSS Dinner - CSS Selectors
 
