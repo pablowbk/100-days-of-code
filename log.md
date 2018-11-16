@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 13: November 16, 2018
+
+**Today's Progress:** Completed Tech Doc page!
+
+**Thoughts:** Glad to have finished this one up, though it's a bit basic... 1 more to go to get the certificate!
+
+**Link to work:** [FCC: Technical Documentation Page] (https://codepen.io/pablowbk/pen/pQPLyy)
+
 
 ### Day 12: November 15, 2018
 
