@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 15: November 18, 2018
+
+**Today's Progress:** Got all test passed, next in line: content + layout. Listeninng to @saronyitbarek and @ka11away on [#CodeNewbie podcast] (https://www.codenewbie.org/podcast/100-days-of-code)
+
+**Thoughts:** Blank page syndrome.....
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 14: November 17, 2018
 
 **Today's Progress:** Started with the html for the last RWD project: Personal Portfolio
