@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 14: November 17, 2018
+
+**Today's Progress:** Started with the html for the last RWD project: Personal Portfolio
+
+**Thoughts:** Blank page syndrome.....
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 13: November 16, 2018
 
 **Today's Progress:** Completed Tech Doc page!
