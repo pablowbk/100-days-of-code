@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 16: November 19, 2018
+
+**Today's Progress:** Continuing with content + layout. Not much done...
+
+**Thoughts:** Blank page syndrome.....
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 15: November 18, 2018
 
 **Today's Progress:** Got all test passed, next in line: content + layout. Listeninng to @saronyitbarek and @ka11away on [#CodeNewbie podcast] (https://www.codenewbie.org/podcast/100-days-of-code)
