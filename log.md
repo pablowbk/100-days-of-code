@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 
 
+### Day 17: November 20, 2018
+
+**Today's Progress:** Still working on the portfolio page. Need to finish projects preview+link
+
+**Thoughts:** Feels like not much progress being done. Travis is always inspirational: [DevTips] (https://www.youtube.com/playlist?list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A)
+
 
 ### Day 16: November 19, 2018
 
