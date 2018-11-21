@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log 
 
+### Day 18: November 21, 2018
+
+**Today's Progress:** Need to finish a couple of things here and there, and figure out how to "translate" hovers to touches... but so far, I'm happy with what came out.
+
+**Thoughts:** Almost there...
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 17: November 20, 2018
 
 **Today's Progress:** Still working on the portfolio page. Need to finish projects preview+link
 
 **Thoughts:** Feels like not much progress being done. Travis is always inspirational: [DevTips] (https://www.youtube.com/playlist?list=PLqGj3iMvMa4KeBN2krBtcO3U90_7SOl-A)
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
 
 
 ### Day 16: November 19, 2018
