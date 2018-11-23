@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 19: November 22, 2018
+
+**Today's Progress:** Nothing done. Links at the bottom are not reacting to my commands.
+ 
+**Thoughts:** Meh...
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 18: November 21, 2018
 
 **Today's Progress:** Need to finish a couple of things here and there, and figure out how to "translate" hovers to touches... but so far, I'm happy with what came out.
