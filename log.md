@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log 
 
 
+### Day 20: November 23, 2018
+
+**Today's Progress:**  Not much done in front of the computer. Doodled while at the beach with my kids.
+ 
+**Thoughts:** 
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
+
 ### Day 19: November 22, 2018
 
 **Today's Progress:** Nothing done. Links at the bottom are not reacting to my commands.
