@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log 
 
 
+
+### Day 21: November 24, 2018
+
+**Today's Progress:**  Just minor improvements to my personal portfolio page for FCC.
+ 
+**Thoughts:** 
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 20: November 23, 2018
 
 **Today's Progress:**  Not much done in front of the computer. Doodled while at the beach with my kids.
