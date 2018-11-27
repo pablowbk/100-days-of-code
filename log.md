@@ -3,7 +3,7 @@
 
 ### Day 23: November 27, 2018
 
-**Today's Progress:**  Completed all tests! need to finish Contact section
+**Today's Progress:**  Completed all tests! need to finish Contact section (link imgs)
 
 **Thoughts:**  
 
