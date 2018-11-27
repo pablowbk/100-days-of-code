@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 23: November 27, 2018
+
+**Today's Progress:**  Completed all tests! need to finish Contact section
+
+**Thoughts:**  
+
+**Link to work:** [FCC: Personal Portfolio] (https://codepen.io/pablowbk/pen/BGddgW)
+
+
 ### Day 22: November 26, 2018
 
 **Today's Progress:**  Just minor improvements to my personal portfolio page for FCC (2).
