@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 24: November 28, 2018
+
+**Today's Progress:**  RWD projects completed!! Earned certification.
+
+**Thoughts:**  Feels really nice having completed this one
+
+**Link to work:** https://www.freecodecamp.org/certification/pablowbk/responsive-web-design
+
 
 ### Day 23: November 27, 2018
 
