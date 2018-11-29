@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 25: November 29, 2018
+
+**Today's Progress:**  Slowly getting up to speed with the Basic JavaScript module at #freeCodeCamp. Also struggled A LOT to get a domain associated to an e-shop and get SSL working...
+
+**Thoughts:**  struggle struggle struggle
+
+**Link to work:** [Basic Javascript] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+
+
 ### Day 24: November 28, 2018
 
 **Today's Progress:**  RWD projects completed!! Earned certification.
