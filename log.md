@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 26: December 1, 2018
+
+**Today's Progress:**  Going over the ES6 module at #freeCodeCamp. Watched @ossia at JamStack:
+
+**Thoughts:**  Stuck at Destructuring excercise.
+
+**Link to work:** [JAMStack Conf] (https://www.youtube.com/watch?v=e5H7CI3yqPY&feature=youtu.be) 
+
+
 ### Day 25: November 29, 2018
 
 **Today's Progress:**  Slowly getting up to speed with the Basic JavaScript module at #freeCodeCamp. Also struggled A LOT to get a domain associated to an e-shop and get SSL working...
