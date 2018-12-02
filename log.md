@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 27: December 2, 2018
+
+**Today's Progress:**  Got stuck at Destructuing excercise, solved it after watching Beu explain it. Also watched "a Day in the life" videos from @freeCodeCamp Youtube's channel. Cool stuff.
+
+**Thoughts:**  Not much at the works.
+
+**Link to work:** [Beu explains Destructuring] (https://www.youtube.com/watch?v=-vR3a11Wzt0) 
+
+
 ### Day 26: December 1, 2018
 
 **Today's Progress:**  Going over the ES6 module at #freeCodeCamp. Watched @ossia at JamStack:
