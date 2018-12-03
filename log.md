@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log 
 
+### Day 28: December 3, 2018
+
+**Today's Progress:**  Still struggling with some concepts in ES6 module. Today it was "Use getters and setters..." Also reported a bug in one of FCC exercises. Curious to know whether it was an actual bug or just misinterpretation on my end
+
+**Thoughts:**  
+
+**Link to work:** [ES6: Use getters and setters to Control Access to an Object] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object/) 
 
 ### Day 27: December 2, 2018
 
