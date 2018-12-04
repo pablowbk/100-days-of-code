@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 29: December 4, 2018
+
+**Today's Progress:**  Done first couple of RegEx exercises in FCC's ES6 module. Started with a React app tutorial
+
+**Thoughts:**  
+
+**Link to work:** [How to build a React.js chat app in 10 minutes] (https://medium.freecodecamp.org/how-to-build-a-react-js-chat-app-in-10-minutes-c9233794642b)
+
+
 ### Day 28: December 3, 2018
 
 **Today's Progress:**  Still struggling with some concepts in ES6 module. Today it was "Use getters and setters..." Also reported a bug in one of FCC exercises. Curious to know whether it was an actual bug or just misinterpretation on my end
