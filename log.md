@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log 
 
 
+
+### Day 32: December 7, 2018
+
+**Today's Progress:** Spent another hour with Scrimba's React course. So far 31/48 lessons completed. Getting along better with React and state.
+
+**Thoughts:**  getting a better sense of things...
+
+**Link to work:** [Learn React for Free] (https://scrimba.com/p/p7P5Hd/cBv8ruL)
+
+
 ### Day 31: December 6, 2018
 
 **Today's Progress:** Continued with React's tutorial at Scrimba. I enjoy the platform very much. It makes things 'click' faster for me. Also first contact with CSS-in-JS, not a fan... I've done styling in React before but always used an imported CSS file for the components. Will need to learn more about pros and cons of each approach.
