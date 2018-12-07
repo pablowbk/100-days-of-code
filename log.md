@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log 
 
+
+### Day 31: December 6, 2018
+
+**Today's Progress:** Continued with React's tutorial at Scrimba. I enjoy the platform very much. It makes things 'click' faster for me. Also first contact with CSS-in-JS, not a fan... I've done styling in React before but always used an imported CSS file for the components. Will need to learn more about pros and cons of each approach.
+
+**Thoughts:**  Exciting day.
+
+**Link to work:** [Learn React for Free] (https://scrimba.com/p/p7P5Hd/cBv8ruL)
+
+
+### Day 30: December 5, 2018
+
+**Today's Progress:**  first mth of #100DaysOfCode ! running through RegEx chapters in FCC's JS Curriculum. Ditched ChatKit react tutorial, got overwhelming. Will try a different one today:
+https://scrimba.com/p/p7P5Hd/cBv8ruL …
+
+
+**Thoughts:**  
+
+**Link to work:** [How to build a React.js chat app in 10 minutes] (https://medium.freecodecamp.org/how-to-build-a-react-js-chat-app-in-10-minutes-c9233794642b)
+
+
 ### Day 29: December 4, 2018
 
 **Today's Progress:**  Done first couple of RegEx exercises in FCC's ES6 module. Started with a React app tutorial
