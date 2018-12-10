@@ -2,7 +2,7 @@
 
 ### Day 34: December 9, 2018
 
-**Today's Progress:** Spent another hour with Scrimba's React course. So far 31/48 lessons completed. Getting along better with React and state.
+**Today's Progress:** Working on the react tutorial. 33/48 completed. The highlight was Conditional Rendering.
 
 **Thoughts:**  
 
