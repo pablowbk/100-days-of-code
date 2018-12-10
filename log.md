@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log 
 
+
+### Day 35: December 10, 2018
+
+**Today's Progress:** Looked for a Mobile App since I'm not getting many chances to sit in front of the computer for more than 5 mins. Found SoloLearn.
+
+**Thoughts:**  
+
+**Link to work:** [SoloLearn] (https://www.sololearn.com/)
+
+
 ### Day 34: December 9, 2018
 
 **Today's Progress:** Working on the react tutorial. 33/48 completed. The highlight was Conditional Rendering.
