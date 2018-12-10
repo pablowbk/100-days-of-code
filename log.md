@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log 
 
+### Day 34: December 9, 2018
+
+**Today's Progress:** Spent another hour with Scrimba's React course. So far 31/48 lessons completed. Getting along better with React and state.
+
+**Thoughts:**  
+
+**Link to work:** [Learn React for Free] (https://scrimba.com/p/p7P5Hd/cBv8ruL)
+
+
+### Day 33: December 8, 2018
+
+**Today's Progress:** Working on the react tutorial. 32/48 completed
+
+**Thoughts:** 
+
+**Link to work:** [Learn React for Free] (https://scrimba.com/p/p7P5Hd/cBv8ruL)
 
 
 ### Day 32: December 7, 2018
