@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log 
 
+### Day 36: December 11, 2018 (cumple del Tatá :) 
+**Today's Progress:** Completed first half of React's tutorial, bulding a TodoList. Learned about Conditional Rendering, managing State, bind(), styling components. Next: Forms in React
+
+**Thoughts:**  Feels it's taking forever to make one step forward...
+
+**Link to work:** https://scrimba.com/p/p7P5Hd/cW8Jdfy
 
 ### Day 35: December 10, 2018
 
