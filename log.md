@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 37: December 12, 2018 
+**Today's Progress:** Completed Forms1 & Forms2 lessons in @bobziroll React course #scrimba Feeling a little lost though. Will tackle the exercise again tomorrow to see if things stuck to my brain.. #CodeNewbie
+
+**Thoughts:**  Feels it's taking forever to make one step forward...
+
+**Link to work:** [Form Practice] (https://scrimba.com/p/p7P5Hd/ceLWEsp)
+
+
 ### Day 36: December 11, 2018 (cumple del Tatá :) 
 **Today's Progress:** Completed first half of React's tutorial, bulding a TodoList. Learned about Conditional Rendering, managing State, bind(), styling components. Next: Forms in React
 
