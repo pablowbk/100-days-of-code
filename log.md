@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+
+### Day 38: December 12, 2018 
+**Today's Progress:** Completed @bobziroll React course #scrimba! Time to get back to finishing my SWAPI App for the Udemy course
+
+**Thoughts:** I need more practice with JS/React, but it's cool having completed the react tut.
+
+**Link to work:** [Meme Generator] (https://scrimba.com/p/p7P5Hd/co285-a58e2daa291b)
+
+
 ### Day 37: December 12, 2018 
 **Today's Progress:** Completed Forms1 & Forms2 lessons in @bobziroll React course #scrimba Feeling a little lost though. Will tackle the exercise again tomorrow to see if things stuck to my brain.. #CodeNewbie
 
