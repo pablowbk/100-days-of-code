@@ -1,7 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 39: December 15, 2018 
+**Today's Progress:** Started Tania Rascia's React tutorial. Spent 4 hours dealing with an Error (Uncaught TypeError: Cannot read property 'state' of undefined) because I forgot to BIND the method in the constructor....
 
-### Day 38: December 12, 2018 
+**Thoughts:** STUPID BRAINNNNNNNNNNNNNN
+
+**Link to work:** [Tania React tut] (https://scrimba.com/c/cB948hv)
+
+
+### Day 38: December 13, 2018 
 **Today's Progress:** Completed @bobziroll React course #scrimba! Time to get back to finishing my SWAPI App for the Udemy course
 
 **Thoughts:** I need more practice with JS/React, but it's cool having completed the react tut.
