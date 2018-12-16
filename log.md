@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log 
 
+### Day 40: December 16, 2018 
+**Today's Progress:** Completed Tania Rascia's React tut. Still feels I I have hardly scratched the surface of JS. Will keep on practicing, need to finish my Star Wars App for @AndreiNeagoie's course.
+
+**Thoughts:** Hang in there...
+
+**Link to work:** [Tania React tut completed] (https://scrimba.com/c/cB948hv) [Tania's Site] (https://www.taniarascia.com/getting-started-with-react/comment-page-2/#comment-10945)
+
+
+
 ### Day 39: December 15, 2018 
 **Today's Progress:** Started Tania Rascia's React tutorial. Spent 4 hours dealing with an Error (Uncaught TypeError: Cannot read property 'state' of undefined) because I forgot to BIND the method in the constructor....
 
