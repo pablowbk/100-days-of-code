@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 41: December 17, 2018 
+**Today's Progress:** Got back intro trying to finish my React app using SWAPI... so far it's no good... Still need to work more in understanding how to display data from the api
+
+**Thoughts:** tutorial hell..
+
+**Link to work:** [SWAPI app] ()
+
+
 ### Day 40: December 16, 2018 
 **Today's Progress:** Completed Tania Rascia's React tut. Still feels I I have hardly scratched the surface of JS. Will keep on practicing, need to finish my Star Wars App for @AndreiNeagoie's course.
 
