@@ -1,11 +1,28 @@
 # 100 Days Of Code - Log 
 
+
+### Day 43: December 19, 2018 
+**Today's Progress:** Spent a lot of time browsing StackOverflow, FCC forum, Discord and some more, looking for hints to solve my problem with fetch(), to no avail. Dedicated some mins to progress with FCC RegEx module. Not fond of it
+
+**Thoughts:** tutorial hell..
+
+**Link to work:** [FCC RegEx] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
+
+
+### Day 42: December 18, 2018 
+**Today's Progress:** Still no progress with the swapi app. I go around in circles making little sense of things... will give it a rest and take up making a few webpages that I have sketched a while back. I did change colors a bit, though
+
+**Thoughts:** tutorial hell..
+
+**Link to work:** [SWAPI app] (https://github.com/pablowbk/react-swapi-app/tree/master/swapiapp)
+
+
 ### Day 41: December 17, 2018 
 **Today's Progress:** Got back intro trying to finish my React app using SWAPI... so far it's no good... Still need to work more in understanding how to display data from the api
 
 **Thoughts:** tutorial hell..
 
-**Link to work:** [SWAPI app] ()
+**Link to work:** [SWAPI app] (https://github.com/pablowbk/react-swapi-app/tree/master/swapiapp)
 
 
 ### Day 40: December 16, 2018 
