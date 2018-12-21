@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log 
 
+### Day 44: December 20, 2018 
+**Today's Progress:** Went through RegEx module at FCC for the second time because it's hard for me to grasp. Got through the tests, though, but dont really feel I've learned them well enough. Side watched DevTips 1st video on the subject. Will continue tomorrow 
+
+**Thoughts:** tutorial hell..
+
+**Link to work:** [FCC RegEx] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
+
 
 ### Day 43: December 19, 2018 
 **Today's Progress:** Spent a lot of time browsing StackOverflow, FCC forum, Discord and some more, looking for hints to solve my problem with fetch(), to no avail. Dedicated some mins to progress with FCC RegEx module. Not fond of it
