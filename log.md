@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log 
 
+
+### Day 46: December 22, 2018 
+**Today's Progress:** Not much done today, but found this FANTASTIC show. Can't stop watching it.
+
+**Thoughts:** 
+
+**Link to work:** [!important] (https://t.co/D8wSiN9LXc)
+
+
+
+### Day 45: December 21, 2018 
+**Today's Progress:** Took a break from the FCC curriculum. Played around with a design I had in my notes for a webpage, which led me to wanting to draw my own profile avatars. So here it's my first go at creating graphic content in CSS:
+
+**Thoughts:** aimless
+
+**Link to work:** [User Avatar] (https://codepen.io/pablowbk/pen/wRJgop)
+
+
 ### Day 44: December 20, 2018 
 **Today's Progress:** Went through RegEx module at FCC for the second time because it's hard for me to grasp. Got through the tests, though, but dont really feel I've learned them well enough. Side watched DevTips 1st video on the subject. Will continue tomorrow 
 
