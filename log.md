@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log 
 
+### Day 49: December 26, 2018 
+**Today's Progress:** Still stuck with my react app using swapi... Ended up posting my first question in StackOverflow! 
+
+**Thoughts:** 
+
+**Link to work:** [StackOverflow] (https://stackoverflow.com/questions/53937071/how-to-retrieve-data-from-swapi-in-react)
+
+
+### Day 48: December 24, 2018 
+**Today's Progress:** played around with enki app and spent bout an hour watching other people's Swapi apps in @CodePen to see if I can finally understand how to work with thw paginated results
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 47: December 23, 2018 
+**Today's Progress:** FAIL! stuck in bed  with a stupid cold... tried to complete de Regex module at FCC but my brain is not cooperating today. We'll retry tomorrow...
+
+**Thoughts:** 
+
+**Link to work:** [!important] (https://t.co/D8wSiN9LXc)
+
 
 ### Day 46: December 22, 2018 
 **Today's Progress:** Not much done today, but found this FANTASTIC show. Can't stop watching it.
