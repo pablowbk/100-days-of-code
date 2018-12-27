@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 50: December 27, 2018 
+**Today's Progress:** thanks to the answer I got in StackOverflow, finally solved 1 of the 2 issues that keep me from completing my react app. Half way through!
+
+**Thoughts:** 
+
+**Link to work:** [StackOverflow
+
+
 ### Day 49: December 26, 2018 
 **Today's Progress:** Still stuck with my react app using swapi... Ended up posting my first question in StackOverflow! 
 
