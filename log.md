@@ -1,11 +1,28 @@
 # 100 Days Of Code - Log 
 
+### Day 52 53 54: December 29 30 31, 2018 
+**Today's Progress:** Still trying to finish my SWAPI react app... Reading a lot of posts on handling paginated results from APIs. Spotted one github repo that I might be able to contribute to, so after I finish the react app, I will give that a try
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
+### Day 51: December 28, 2018 
+**Today's Progress:** Things are looking good in my react app thanks to all the help I'm getting from StackOverflow and #ZeroToMastery Discord channel
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
 ### Day 50: December 27, 2018 
 **Today's Progress:** thanks to the answer I got in StackOverflow, finally solved 1 of the 2 issues that keep me from completing my react app. Half way through!
 
 **Thoughts:** 
 
-**Link to work:** [StackOverflow
+**Link to work:** [StackOverflow] (https://stackoverflow.com/questions/53937071/how-to-retrieve-data-from-swapi-in-react)
 
 
 ### Day 49: December 26, 2018 
