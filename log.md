@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log 
 
+### Day 56 57: January 2 3, 2019 
+**Today's Progress:** Still struggling with promises and trying to finish my react app using SWAPI
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 55: January 1, 2019 
+**Today's Progress:** I've spent all of the time I had trying to answer questions in differnent forums I'm part of. 
+
+**Thoughts:** Felt great having to challenge myself into helping others with stuff I once struggled with
+
+**Link to work:** 
+
+
 ### Day 52 53 54: December 29 30 31, 2018 
 **Today's Progress:** Still trying to finish my SWAPI react app... Reading a lot of posts on handling paginated results from APIs. Spotted one github repo that I might be able to contribute to, so after I finish the react app, I will give that a try
 
