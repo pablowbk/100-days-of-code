@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log 
 
-### Day 56 57: January 2 3, 2019 
+### Day 57: January 3, 2019 
+**Today's Progress:** Spent the last two days going over other people's solutions and re-doing Promises module on @AndreiNeagoie 's course... AND IT'S FINALLY WORKING! 
+
+**Thoughts:** 
+**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app/tree/master/swapiapp)
+
+
+### Day 56: January 2, 2019 
 **Today's Progress:** Still struggling with promises and trying to finish my react app using SWAPI
 
 **Thoughts:** 
