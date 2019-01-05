@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log 
 
+### Day 58: January 4, 2019 
+**Today's Progress:** Added a nice "about" modal to my swapi app.
+
+**Thoughts:**  I'm happy cause it works and for a moment it felt like I knew what I was doing
+
+**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app/tree/master/swapiapp)
+
+
 ### Day 57: January 3, 2019 
 **Today's Progress:** Spent the last two days going over other people's solutions and re-doing Promises module on @AndreiNeagoie 's course... AND IT'S FINALLY WORKING! 
 
