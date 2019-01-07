@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log 
 
+
+
+### Day 60: January 6, 2019 
+**Today's Progress:** Struggled a bit with my github repo where I have my CRA. After a bit of discord, medium and stackoverflow, I managed to solve the problem
+
+**Thoughts:**  
+
+**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app)
+
+
+
+### Day 59: January 5, 2019 
+**Today's Progress:** failed professionally when trying to deploy the react app to github pages. Alloted time for today is up, so hopefully I'll get my brain to work properly tomorrow.
+
+**Thoughts:**  
+
+**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app)
+
+
+
 ### Day 58: January 4, 2019 
 **Today's Progress:** Added a nice "about" modal to my swapi app.
 
