@@ -1,13 +1,20 @@
 # 100 Days Of Code - Log 
 
 
+### Day 61: January 7, 2019 
+**Today's Progress:** Added Search feature to the app. First time re-using a react component from the app built in the Udemy course.
+
+**Thoughts:**  
+
+**Link to work:** [GitHub page] (https://pablowbk.github.io/react-swapi-test)
+
 
 ### Day 60: January 6, 2019 
 **Today's Progress:** Struggled a bit with my github repo where I have my CRA. After a bit of discord, medium and stackoverflow, I managed to solve the problem
 
 **Thoughts:**  
 
-**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app)
+**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-test)
 
 
 
