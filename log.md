@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log 
 
 
+### Day 62: January 8, 2019 
+**Today's Progress:** Fixed some clicks behavior and css issues. Would say it's about 90% done, performance is an issue though... 
+
+**Thoughts:**  
+
+**Link to work:** [GitHub page] (https://pablowbk.github.io/react-swapi-test)
+ 
+
 ### Day 61: January 7, 2019 
 **Today's Progress:** Added Search feature to the app. First time re-using a react component from the app built in the Udemy course.
 
