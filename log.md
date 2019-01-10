@@ -1,51 +1,11 @@
 # 100 Days Of Code - Log 
 
-### Day 63: January 9, 2019 
-**Today's Progress:** Added scroll to top and autofocus to searchbox, pretty happy so far
 
-**Thoughts:**  
-
-**Link to work:** [GitHub page] (https://pablowbk.github.io/react-swapi-test)
-
- 
-### Day 61: January 7, 2019 
-**Today's Progress:** Added Search feature to the app. First time re-using a react component from the app built in the Udemy course.
-
-**Thoughts:**  
-
-**Link to work:** [GitHub page] (https://pablowbk.github.io/react-swapi-test)
-
-
-### Day 60: January 6, 2019 
-**Today's Progress:** Struggled a bit with my github repo where I have my CRA. After a bit of discord, medium and stackoverflow, I managed to solve the problem
-
-**Thoughts:**  
-
-**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-test)
-
-
-
-### Day 59: January 5, 2019 
-**Today's Progress:** failed professionally when trying to deploy the react app to github pages. Alloted time for today is up, so hopefully I'll get my brain to work properly tomorrow.
-
-**Thoughts:**  
-
-**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app)
-
-
-
-### Day 58: January 4, 2019 
-**Today's Progress:** Added a nice "about" modal to my swapi app.
-
-**Thoughts:**  I'm happy cause it works and for a moment it felt like I knew what I was doing
-
-**Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app/tree/master/swapiapp)
-
-
-### Day 57: January 3, 2019 
-**Today's Progress:** Spent the last two days going over other people's solutions and re-doing Promises module on @AndreiNeagoie 's course... AND IT'S FINALLY WORKING! 
+### Day 64: January 10, 2019 
+**Today's Progress:** Started the next challenge in @AndreiNeagoie 's course #ZeroToMastery, building a voice recognition app using #IBMwatson api. Using Creative tim PaperKit 2 UI kit
 
 **Thoughts:** 
+
 **Link to work:** [GitHub Repo] (https://github.com/pablowbk/react-swapi-app/tree/master/swapiapp)
 
 
