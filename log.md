@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log 
 
+### Day 68: January 14, 2019 
+**Today's Progress:** Another day of fun with Wes Bos's #javascript30  course. Today's installment: Flex Panels Image Gallery. Key takeaways: transitionend event & classList.toggle()
+
+**Thoughts:** 
+
+**Link to work:** https://www.youtube.com/watch?v=HB1ZC7czKRs
+
+
+### Day 67: January 13, 2019 
+**Today's Progress:** Had another session with @wesbos 's #javascript30 course. Today's topic: CSS variables.
+
+**Thoughts:** 
+
+**Link to work:** https://www.youtube.com/watch?v=HB1ZC7czKRs
+
 
 ### Day 66: January 12, 2019 
 **Today's Progress:** Couldnt make any progress with Voice Recognition app, so took a break and resumed with @wesbos 's #javascript30. Array Cardio - Day 1 - great exercises. I stil have problems understanding how .sort() method works
