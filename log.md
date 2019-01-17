@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log 
 
+
+
+### Day 70: January 16, 2019 
+**Today's Progress:** My mind was all over the place today, so couldnt focus on anything. I tried to answer some questions in #ZeroToMastery's discordchannel. Tackled Array Cardio Day 2 from Wes Bos's #javascript30 course.
+
+**Thoughts:** 
+
+**Link to work:** https://courses.wesbos.com/account/access/5bb37f180d84587c7c882e66
+
+
+### Day 69: January 15, 2019 
+**Today's Progress:** #javascript30 Awesome exercise today:: 06 - Type Ahead. Finally used RegEx in a real world example
+
+**Thoughts:** 
+
+**Link to work:** https://courses.wesbos.com/account/access/5bb37f180d84587c7c882e66
+
 ### Day 68: January 14, 2019 
 **Today's Progress:** Another day of fun with Wes Bos's #javascript30  course. Today's installment: Flex Panels Image Gallery. Key takeaways: transitionend event & classList.toggle()
 
