@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log 
 
 
+### Day 71 & 72: January 17 & 18, 2019 
+**Today's Progress:** Didnt get much time in front the computer, but managed to complete #javascript30 "Fun with HTML Canvas". As a plus, I added a color picker and a "reset" button to clear the canvas. Can't think of a practical use of it but it was FUN!
+
+**Thoughts:** 
+
+**Link to work:** https://courses.wesbos.com/account/access/5bb37f180d84587c7c882e66
+
 
 ### Day 70: January 16, 2019 
 **Today's Progress:** My mind was all over the place today, so couldnt focus on anything. I tried to answer some questions in #ZeroToMastery's discordchannel. Tackled Array Cardio Day 2 from Wes Bos's #javascript30 course.
