@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log 
 
+### Day 74 & 75: January 20 & 21, 2019 
+**Today's Progress:** Enjoying #javascript30 more and more. Yesterday and Today were: "14 Must Know Dev Tools Tricks" and "Hold Shift to Check Multiple Checkboxes". Console.logging steps help me understand things better. 
+
+**Thoughts:** 
+
+**Link to work:** https://pablowbk.github.io/js30-exces/
+
+
+### Day 73: January 19, 2019 
+**Today's Progress:** Had just a couple of mins today, but luckily it was enough to spot out a problem with my github page. Now, the codepen previews are visible
+
+**Thoughts:** 
+
+**Link to work:** https://pablowbk.github.io
+
+
 
 ### Day 71 & 72: January 17 & 18, 2019 
 **Today's Progress:** Didnt get much time in front the computer, but managed to complete #javascript30 "Fun with HTML Canvas". As a plus, I added a color picker and a "reset" button to clear the canvas. Can't think of a practical use of it but it was FUN!
