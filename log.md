@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log 
 
+
+### Day 78, 79 & 80: January 24 25 & 26, 2019 
+**Today's Progress:** Watched intro to @cs50 posted by #freeCodeCamp . Revisted an old JS exercise and add a little bit of functionality to it
+
+**Thoughts:** 
+
+**Link to work:** [CS50 intro](https://youtu.be/ix5jPkxsr7M) - [Codepen link](https://t.co/PIHOB9BPkF)
+
+
+### Day 77: January 23, 2019 
+**Today's Progress:** Does listening to podcasts count? Couldnt get anything done in the editor today. However, I did listen to the latest @CodeNewbies episode, as well as the first two of #CommandLinePod season 2.
+
+**Thoughts:** 
+
+**Link to work:** https://www.redhat.com/en/command-line-heroes
+
+
+### Day 76: January 22, 2019 
+**Today's Progress:** Added a little bit of functionality to @wesbos 's #javascript30 exercise "10 - Hold Shift and Check Checkboxes"
+
+**Thoughts:** 
+
+**Link to work:** https://pablowbk.github.io/js30-exces/
+
+
 ### Day 74 & 75: January 20 & 21, 2019 
 **Today's Progress:** Enjoying #javascript30 more and more. Yesterday and Today were: "14 Must Know Dev Tools Tricks" and "Hold Shift to Check Multiple Checkboxes". Console.logging steps help me understand things better. 
 
