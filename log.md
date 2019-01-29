@@ -1,8 +1,23 @@
 # 100 Days Of Code - Log 
 
+### Day 82 & 83: January 28 & 29, 2019 
+**Today's Progress:** Finished watching 2nd lecture from #cs50 course. Solved 1st 2 problems of Problem Set 1.
+
+**Thoughts:** 
+
+**Link to work:** [Submissions](https://cs50.me/submissions) - [Problem Set 1](https://cs50.harvard.edu/college/psets/1/)
+
+
+### Day 81: January 27, 2019 
+**Today's Progress:** 2nd lecture from @cs50 Intro to Computer Science- This time, Intro to C Language. First hello world in a language that's not JS. Finished watching 2nd lecture from #cs50 course.
+
+**Thoughts:** 
+
+**Link to work:** [Submissions](https://cs50.me/submissions) - [Problem Set 1](https://cs50.harvard.edu/college/psets/1/)
+
 
 ### Day 78, 79 & 80: January 24 25 & 26, 2019 
-**Today's Progress:** Watched intro to @cs50 posted by #freeCodeCamp . Revisted an old JS exercise and add a little bit of functionality to it
+**Today's Progress:** Watched intro to @cs50 posted by #freeCodeCamp . Revisited an old JS exercise and add a little bit of functionality to it
 
 **Thoughts:** 
 
