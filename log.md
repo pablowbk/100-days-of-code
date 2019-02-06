@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log 
 
+
+### Day 84 85 86 87 88 & 89: January 31 - February 1 2 3 4 & 5 , 2019 
+**Today's Progress:** 
+84 - Managed to sort the Cash challenge from #CS50 's Problem Set 1. Added a bit of personal taste to the code 😎 Tried my best to tackle the Credit one, but that one is miles ahead of my skills for now. 
+85 - Feels like I'm branching off, but couldn't help it once I saw this list... #CodeNewbie #cs50 #gd50
+86 - Continued with #cs50 lecture #3 . Arrays and Sorting Algorithms. Really diggin @davidjmalan 's teaching style. Looking forward to tackle the next Problem Set.
+87 - Finished watching 3rd lecture from #CS50 - Arrays and Sorting Algorithms... my head aches. Will attempt to solve the problem sets and then take a break from these videos. 
+88 -  3rd time taking the Regex module at #freeCodeCamp ! This time, I'm following along with @CarnesBeau using @scrimba_com. Finally made it through the user names challenge.
+89 -  Another slow-paced short-lasting session today. Still going over Regex module at #freeCodeCamp. Finally got a grasp of how Look-aheads work thanks to @scrimba_com & @CarnesBeau . Totally recommend their free course:
+https://scrimba.com/p/peyvVAN/c2rVEU2
+
+**Thoughts:** I'm getting lazy at documenting...
+
+**Link to work:*
+
+
 ### Day 82 & 83: January 28 & 29, 2019 
 **Today's Progress:** Finished watching 2nd lecture from #cs50 course. Solved 1st 2 problems of Problem Set 1.
 
